@@ -20,7 +20,7 @@ CSS3: Styling, including 3D transformations and animations.
 
 JavaScript: Logic for interactions, camera movements, and object manipulation.
 
-Setup Instructions
+#Setup Instructions
 
 Clone this repository to your local machine:
 
