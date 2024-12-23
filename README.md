@@ -26,6 +26,6 @@ Clone this repository to your local machine:
 
 https://github.com/E-beep-web/3d-room.git
 
-License
+#License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
