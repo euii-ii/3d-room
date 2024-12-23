@@ -12,7 +12,7 @@ Dynamic Lighting: Realistic lighting effects to enhance the immersive experience
 
 Custom Textures and Models: Visual elements that bring the room to life.
 
-Technologies Used
+#Technologies Used
 
 HTML5: Structure of the project.
 
